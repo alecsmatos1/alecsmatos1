@@ -47,5 +47,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-alecsmatos1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/alecsmatos1)](https://github.com/alecsmatos1)
-[![Gmail Badge](https://img.shields.io/badge/email-me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alecsander.tec@gmail.com)](mailto:alecsander.tec@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Alecsander-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alecsander.tec@gmail.com)](mailto:alecsander.tec@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/alecsmatos1?label=follow&style=social)](https://github.com/alecsmatos1)
