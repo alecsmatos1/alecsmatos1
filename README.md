@@ -13,7 +13,7 @@ Atualmente:
 - 🎓 Mestre em Engenharia de Software – USP (em andamento)
 - 🎓 Bacharel em Ciência da Computação – UFOPA
 - ⚙️ Especialista em integrações, APIs e automação de workflows
-- 🌎 Aberto a oportunidades internacionais backend / integrations / platform engineering
+- 🌎 Backend / integrations / platform engineering
 
 
 # Tech Stack
