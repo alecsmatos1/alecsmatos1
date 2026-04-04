@@ -67,18 +67,6 @@ Especialidades:
 ✔ Soluções low-code + código sob medida  
 ✔ Implementação de soluções em tempo real com clientes  
 
-
-# GitHub Stats
-
-<a href="https://github.com/alecsmatos1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alecsmatos1&theme=dracula&show_icons=true" />
-</a>
-
-<a href="https://github.com/alecsmatos1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecsmatos1&layout=compact&theme=dracula" />
-</a>
-
-
 # Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alecsander-matos)
