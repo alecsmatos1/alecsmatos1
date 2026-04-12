@@ -2,19 +2,22 @@
 
 # Alecsander Matos
 
-Full-Stack Developer | Integration Specialist | APIs | Automations | PHP | Python | Angular | SQL
+**Full-Stack Developer | Web Development Specialist | Integration Specialist | APIs | Automations | Platform Engineering**
 
-Sou desenvolvedor Full-Stack com foco em **integrações entre sistemas, automação de processos e construção de soluções orientadas a problemas reais de negócio**.
+Sou desenvolvedor Full-Stack com foco em **desenvolvimento web, integrações entre sistemas, automação de processos e construção de soluções orientadas a problemas reais de negócio**.
 
-Tenho experiência prática integrando **mais de 40 sistemas diferentes**, trabalhando com APIs REST, GraphQL e pipelines de automação.
+Tenho experiência prática integrando **mais de 40 sistemas diferentes**, trabalhando com **APIs REST, GraphQL, sincronização de dados e pipelines de automação** em ambientes corporativos.
 
-Atualmente:
-- 💼 Full-Stack Developer na Jestor
-- 🎓 Mestre em Engenharia de Software – USP (em andamento)
-- 🎓 Bacharel em Ciência da Computação – UFOPA
-- ⚙️ Especialista em integrações, APIs e automação de workflows
-- 🌎 Backend / integrations / platform engineering
+## Atualmente
 
+- 💼 Full-Stack Developer na **Jestor**
+- 🎓 Mestre em **Engenharia de Software – USP** (em andamento)
+- 🎓 Pós-graduação em **Desenvolvimento Web**
+- 🎓 Bacharel em **Ciência da Computação – UFOPA**
+- ⚙️ Especialista em **desenvolvimento web, integrações, APIs e automação de workflows**
+- 🌎 Backend / web development / integrations / platform engineering
+
+---
 
 # Tech Stack
 
@@ -27,13 +30,17 @@ Atualmente:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![REST API](https://img.shields.io/badge/-REST-333333)
 
-Especialidades:
-- Integrações entre sistemas
-- APIs REST / GraphQL
-- Automação de processos
-- ETL leve e sincronização de dados
-- Modelagem de banco de dados
+Especialidades técnicas:
 
+- Desenvolvimento de aplicações web
+- Integrações entre ERPs, CRMs e plataformas SaaS
+- APIs REST e GraphQL
+- Automação de processos empresariais
+- ETL leve e sincronização de dados
+- Modelagem e otimização de banco de dados
+- Integrações low-code + código sob medida
+
+---
 
 ## Frontend
 
@@ -42,12 +49,16 @@ Especialidades:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
+Experiência com aplicações web orientadas a workflow, dashboards operacionais e interfaces integradas a APIs.
+
+---
 
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
+---
 
 ## DevOps & Tools
 
@@ -57,15 +68,31 @@ Especialidades:
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
+---
 
 # Featured Expertise
 
-✔ Integração entre ERPs, CRMs e plataformas SaaS  
+✔ Desenvolvimento de aplicações web corporativas  
+✔ Integração entre sistemas (ERP / CRM / SaaS)  
 ✔ Automação de workflows empresariais  
-✔ Sincronização de dados entre sistemas  
+✔ Sincronização de dados entre múltiplas plataformas  
 ✔ APIs escaláveis e confiáveis  
 ✔ Soluções low-code + código sob medida  
-✔ Implementação de soluções em tempo real com clientes  
+✔ Implementação colaborativa com clientes em tempo real  
+✔ Modelagem de integrações resilientes e orientadas a eventos  
+
+---
+
+# Atualmente estudando e pesquisando
+
+Durante o mestrado na USP:
+
+- Engenharia de Software
+- Qualidade de software e testes estruturais
+- Verificação, validação e cobertura de código
+- Arquitetura e confiabilidade de sistemas
+
+---
 
 # Onde me encontrar
 
