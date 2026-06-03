@@ -1,103 +1,138 @@
-![](https://komarev.com/ghpvc/?username=alecsmatos1&color=006bed)
+![](https://komarev.com/ghpvc/?username=alecsmatos1\&color=006bed)
 
 # Alecsander Matos
 
-**Full-Stack Developer | Web Development Specialist | Integration Specialist | APIs | Automations | Platform Engineering**
+**Software Engineer | Automation & Integration Specialist | Full-Stack Engineer | SaaS Platforms**
 
-Sou desenvolvedor Full-Stack com foco em **desenvolvimento web, integrações entre sistemas, automação de processos e construção de soluções orientadas a problemas reais de negócio**.
+I build software that connects systems, automates business processes, and helps companies scale operations.
 
-Tenho experiência prática integrando **mais de 40 sistemas diferentes**, trabalhando com **APIs REST, GraphQL, sincronização de dados e pipelines de automação** em ambientes corporativos.
+Over the last few years, I have worked on the design, implementation, and deployment of production solutions used by thousands of businesses, combining software engineering, integrations, automation, and platform development.
 
-## Atualmente
+Highlights:
 
-- 💼 Full-Stack Developer na **Jestor**
-- 🎓 Mestre em **Engenharia de Software – USP** (em andamento)
-- 🎓 Pós-graduação em **Desenvolvimento Web**
-- 🎓 Bacharel em **Ciência da Computação – UFOPA**
-- ⚙️ Especialista em **desenvolvimento web, integrações, APIs e automação de workflows**
-- 🌎 Backend / web development / integrations / platform engineering
+* Built **40+ SaaS integrations from scratch**
+* Developed **242 production automations**
+* Created **112 native product automations**
+* Developed **40 reusable workflow triggers**
+* Contributed to a platform serving **120k+ monthly active users** and **32k+ companies**
+* Sole engineer responsible for a production platform used by **150+ companies** and **350+ operational units**
+
+---
+
+## Current Focus
+
+* 🎓 M.Sc. Student in Software Engineering at USP
+* 🔬 Researching Automated Test Generation, Model-Based Testing, Mutation Testing and LLMs for Software Engineering
+* ⚙️ Building automation, integrations and production software
+* 🚀 Exploring AI-Augmented Software Engineering and developer productivity workflows
+
+---
+
+# Core Expertise
+
+### Automation & Integrations
+
+* SaaS integrations
+* REST APIs
+* GraphQL
+* Event-driven workflows
+* Business process automation
+* Data synchronization
+* ERP / CRM integrations
+* Digital signature platforms
+* Low-code and custom-code solutions
+
+### Full-Stack Development
+
+* Backend architecture
+* API design
+* Web applications
+* Mobile applications
+* Database modeling
+* Legacy system modernization
+* Production systems
+
+### Platform Engineering
+
+* Workflow platforms
+* Internal tooling
+* Product capabilities
+* Reusable automation frameworks
+* Customer-facing features
+* Production deployments
 
 ---
 
 # Tech Stack
 
-## Backend & Integrações
+## Backend
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-![REST API](https://img.shields.io/badge/-REST-333333)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat\&logo=php)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat\&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat\&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat\&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat\&logo=graphql)
 
-Especialidades técnicas:
+## Frontend & Mobile
 
-- Desenvolvimento de aplicações web
-- Integrações entre ERPs, CRMs e plataformas SaaS
-- APIs REST e GraphQL
-- Automação de processos empresariais
-- ETL leve e sincronização de dados
-- Modelagem e otimização de banco de dados
-- Integrações low-code + código sob medida
-
----
-
-## Frontend
-
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-
-Experiência com aplicações web orientadas a workflow, dashboards operacionais e interfaces integradas a APIs.
-
----
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat\&logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat\&logo=typescript)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat\&logo=ionic)
 
 ## Databases
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat\&logo=mysql)
+
+## DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat\&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat\&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat\&logo=linux)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat\&logo=microsoftazure)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat\&logo=jenkins)
 
 ---
 
-## DevOps & Tools
+# Professional Highlights
 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+### Jestor (YC S21)
 
----
+* Developed **242 production automations**
+* Created **112 native automations**
+* Built **40 reusable workflow triggers**
+* Designed and implemented **40+ SaaS integrations from scratch**
+* Worked directly with dozens of customers to design and deploy automation solutions
+* Contributed to a platform serving **120k+ monthly active users** across **32k+ companies**
 
-# Featured Expertise
+### Onexo
 
-✔ Desenvolvimento de aplicações web corporativas  
-✔ Integração entre sistemas (ERP / CRM / SaaS)  
-✔ Automação de workflows empresariais  
-✔ Sincronização de dados entre múltiplas plataformas  
-✔ APIs escaláveis e confiáveis  
-✔ Soluções low-code + código sob medida  
-✔ Implementação colaborativa com clientes em tempo real  
-✔ Modelagem de integrações resilientes e orientadas a eventos  
+* Sole engineer responsible for architecture, backend, frontend, mobile, deployments and production support
+* Platform used by **150+ companies** and **350+ operational units**
+* Responsible for database modeling, APIs, Angular applications, Ionic applications, Azure deployments, Jenkins pipelines and Google Play releases
+* Continuous modernization of legacy systems and production features
 
 ---
 
-# Atualmente estudando e pesquisando
+# Research Interests
 
-Durante o mestrado na USP:
+At the University of São Paulo (USP):
 
-- Engenharia de Software
-- Qualidade de software e testes estruturais
-- Verificação, validação e cobertura de código
-- Arquitetura e confiabilidade de sistemas
+* Software Engineering
+* Automated Test Generation
+* Model-Based Testing
+* Mutation Testing
+* Software Quality
+* LLMs for Software Engineering
+* AI-Augmented Software Development
 
 ---
 
-# Onde me encontrar
+# Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alecsander-matos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=linkedin)](https://linkedin.com/in/alecsander-matos)
 
-[![Email](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:alecsander.tec@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-006bed?style=flat-square\&logo=gmail\&logoColor=white)](mailto:alecsander.tec@gmail.com)
 
-[![GitHub](https://img.shields.io/github/followers/alecsmatos1?label=follow&style=social)](https://github.com/alecsmatos1)
+[![GitHub](https://img.shields.io/github/followers/alecsmatos1?label=follow\&style=social)](https://github.com/alecsmatos1)
